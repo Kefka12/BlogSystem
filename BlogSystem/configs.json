@@ -1,0 +1,9 @@
+{
+  "DbConnStr": {
+    //here your database connection string
+    "Default": "server=localhost;uid=root;pwd=ys001228;database=BlogSystem",
+    "MySql": "server=localhost;uid=root;pwd=ys001228;database=BlogSystem",
+    "SqlServer": ""
+  },
+  "Redis": {}
+}
